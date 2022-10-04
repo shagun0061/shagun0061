@@ -51,8 +51,8 @@
 
 ## Current Stats:
 
-|   ![Harshal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harshal-Jadhav&theme=rogue) |
+|   ![Shagun's github activity graph](https://activity-graph.herokuapp.com/graph?username=shagun0061&theme=rogue) |
 | :---: |
 
-| ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal-Jadhav&show_icons=true&theme=dark) | ![Harshal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Jadhav&theme=dark) |
+| ![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagun0061&show_icons=true&theme=dark) | ![Shagun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shagun0061&theme=dark) |
 | :---: | :---: |
