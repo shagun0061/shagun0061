@@ -1,19 +1,61 @@
- # 💫 About Me:
-🔭 I’m currently a Student at Masai School.<br><br>🌱 I’m currently learning React <br><br>💬 I’m looking to collaborate on Interesting Projects.<br><br>📫 How to reach me shagun08081999@gmail.com<br><br>⚡ Fun fact You can't wash your eyes with soap.😂<br><br>
+<!-- Github Banner Section-->
+[![Harshal's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/)
 
+<!-- Adding Social Buttons -->
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/harshal-jadhav">
+    <img src="https://img.shields.io/badge/Harshal Jadhav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:harshaljadhav1000@gmail.com">
+    <img src="https://img.shields.io/badge/Harshal Jadhav-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://harshal-jadhav.github.io/">
+    <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<h1></h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shagunkalia4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shagun-sharma-a17245234/) 
+Hey there,
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shagun0061&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shagun0061&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shagun0061&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm Harshal, a Full-Stack Web Developer based in Pune Maharashtra, Who is passionate about building user-friendly, easy-to-use applications, I like to explore new trends and learn new technologies. I'm Currently learning Java, SpringBoot, MySQL and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+Want to know more about me? [Check out my portfolio](https://harshal-jadhav.github.io/)
 
----
-[![](https://visitcount.itsvg.in/api?id=shagun0061&icon=5&color=1)](https://visitcount.itsvg.in)
+<h1></h1>
+<div>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br />
+
+- 🔭 I’m currently a Student at **Masai School.**
+
+- 🌱 I’m currently learning **Java & Backend Technologies.**
+
+- 💬 I’m looking to collaborate on Interesting Projects.
+
+- 📫 How to reach me **harshaljadhav1000@gmail.com**
+
+- ⚡ Fun fact **You can't wash your eyes with soap.😂**
+</div>
+<br /><br />
+
+## 🛠 My Toolkit : 
+
+<div>
+
+ [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
+
+</div>
+
+## Current Stats:
+
+|   ![Harshal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harshal-Jadhav&theme=rogue) |
+| :---: |
+
+| ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal-Jadhav&show_icons=true&theme=dark) | ![Harshal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Jadhav&theme=dark) |
+| :---: | :---: |
