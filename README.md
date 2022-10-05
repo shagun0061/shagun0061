@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning at **Masai School**
 
-<!-- - 👨‍💻 All of my projects are available at [rituraj6.github.io/](rituraj6.github.io/) -->
+ - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>  
 
 - 📫 How to reach me **shagun08081999@gmail.com**
 
