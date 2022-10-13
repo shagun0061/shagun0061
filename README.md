@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shagun08081999@gmail.com**
 
-- ⚡ Fun fact **I think I am very polite and funny.**
+- ⚡ "If you don’t risk anything, you risk even more".**
 
 
 
