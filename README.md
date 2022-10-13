@@ -1,10 +1,8 @@
-<!-- Github Banner Section-->
-<!-- [![Harshal's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/) -->
-
+ 
 
 <h1 align="center">Hi 👋, I'm Shagun Sharma</h1>
 <h3 align="center">A passionate 
-  Full stack web developer from India</h3>
+  Full stack web developer 🖥</h3>
 
 <p><img align="center" src="https://www.digitalsolutionservices.com/img/services/website1.gif" /></p>
 
