@@ -24,7 +24,7 @@
  <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="www.linkedin.com/in/shagun-sharma-a17245234">
+  <a href="www.linkedin.com/in/shagun-sharm">
     <img src="https://img.shields.io/badge/Shagun Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:shagun08081999@gmail.com">
