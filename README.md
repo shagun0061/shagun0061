@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning at **Masai School**
+- 🌱 I’m currently Passout  **Masai School**
 
 <!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
 
