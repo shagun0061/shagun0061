@@ -13,7 +13,7 @@
 
 <!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
 
-- 📫 How to reach me **shagun08081999@gmail.com**
+- 📫 How to reach me **shagun.sharma.engineer@gmail.com**
 
 - ⚡ "If you don’t risk anything, you risk even more".**
 
