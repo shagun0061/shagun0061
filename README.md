@@ -16,82 +16,89 @@
 
 * ⚡ **“If you don’t risk anything, you risk even more.”**
 
-
+<br/>
 <!-- Social & Professional Links -->
 <div align="center">
 
-  <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing" target="_self">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
+<!-- Resume -->
+<a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing" target="_self">
+  <img src="https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
 
-  <a href="https://linkedin.com/in/shagun-sharm" target="_self">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=simpleicons&logoColor=white" alt="LinkedIn"/>
-  </a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/shagun-sharm" target="_self">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="https://shagun0061.github.io/" target="_self">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<!-- Portfolio -->
+<a href="https://shagun0061.github.io/" target="_self">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <a href="mailto:shagun08081999@gmail.com" target="_self">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<!-- Email -->
+<a href="mailto:shagun08081999@gmail.com" target="_self">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+<br/>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="shagun_sharma" /> </div>
+
+
+
+## 🛠 My Toolkit :
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&for-the-badge&logo=react-router&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&for-the-badge&logo=redux&logoColor=white)&nbsp;
+
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff) 
+
+## Current Stats:
+ 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shagun0061&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun0061&layout=compact&theme=radical&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
 
 <br>
-<!-- Profile Views -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagun0061&theme=radical"
+    width="90%"
+    alt="GitHub Profile Details"
+  />
+
 </div>
-
-
-<!-- Adding Social Buttons -->
-<div id="badges" align="center">
- 
- <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/shagun-sharm">
-    <img src="https://img.shields.io/badge/Shagun Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://shagun0061.github.io/">
-    <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
-  </a>
-  <a href="mailto:shagun.sharma.engineer@gmail.com">
-    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
-<h1></h1>
-
- 
-
-## 🛠 My Toolkit :
- 
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<br />
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&for-the-badge&logo=react-router&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&for-the-badge&logo=redux&logoColor=white)&nbsp; 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&for-the-badge&logo=chakraui&logoColor=white)&nbsp;
-<br />
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&for-the-badge&logo=npm&logoColor=white)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-## Current Stats:
- 
- ![](https://github-readme-stats.vercel.app/api?username=shagun0061&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=shagun0061&theme=radical&hide_border=false) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagun0061&theme=radical)
