@@ -12,7 +12,7 @@
 
 * 🎓 Completed the **Full Stack Web Development Program at Masai School**
 
-* 📫 Reach me at **[shagun08081999@gmail.com](mailto:shagun08081999@gmail.com)**
+* 📫 Reach me at **[shagun.sharma.engineer@gmail.com](shagun.sharma.engineer@gmail.com)**
 
 * ⚡ **“If you don’t risk anything, you risk even more.”**
 
@@ -36,7 +36,7 @@
 </a>
 
 <!-- Email -->
-<a href="mailto:shagun08081999@gmail.com" target="_blank">
+<a href="mailto:shagun.sharma.engineer@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
