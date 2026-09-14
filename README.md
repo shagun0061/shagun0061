@@ -21,22 +21,22 @@
 <div align="center">
 
 <!-- Resume -->
-<a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing" target="_self">
+<a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/shagun-sharm" target="_self">
+<a href="https://linkedin.com/in/shagun-sharma1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <!-- Portfolio -->
-<a href="https://shagun0061.github.io/" target="_self">
+<a href="https://shagun0061.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <!-- Email -->
-<a href="mailto:shagun08081999@gmail.com" target="_self">
+<a href="mailto:shagun08081999@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
