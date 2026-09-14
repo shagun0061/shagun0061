@@ -71,34 +71,17 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff) 
 
-## Current Stats:
- 
-## 📊 GitHub Stats
+
+## 🔥 GitHub Contributions
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shagun0061&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=shagun0061&theme=radical&hide_border=false) -->
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagun0061&theme=radical)
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shagun0061&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun0061&layout=compact&theme=radical&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" height="20%" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagun0061&theme=radical"
-    width="90%"
-    alt="GitHub Profile Details"
-  />
 
 </div>
