@@ -3,20 +3,46 @@
 <h1 align="center">Hi 👋, I'm Shagun Sharma</h1>
 <h3 align="center">A passionate 
   Full stack web developer 🖥</h3>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=React.js+Developer;Next.js+Developer;Full-Stack+JavaScript+Developer;Building+Scalable+Web+Applications;3%2B+Years+of+Professional+Experience" />
+</p>
 
 <p><img align="center" src="https://www.digitalsolutionservices.com/img/services/website1.gif" /></p>
 
 
+* 🎓 Completed the **Full Stack Web Development Program at Masai School**
+
+* 📫 Reach me at **[shagun08081999@gmail.com](mailto:shagun08081999@gmail.com)**
+
+* ⚡ **“If you don’t risk anything, you risk even more.”**
 
 
-- 🌱 I’m currently Passout  **Masai School**
+<!-- Social & Professional Links -->
+<div align="center">
 
-<!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
+  <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing" target="_self">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 
-- 📫 How to reach me **shagun.sharma.engineer@gmail.com**
+  <a href="https://linkedin.com/in/shagun-sharm" target="_self">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=simpleicons&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-- ⚡ "If you don’t risk anything, you risk even more".**
+  <a href="https://shagun0061.github.io/" target="_self">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 
+  <a href="mailto:shagun08081999@gmail.com" target="_self">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+<br>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 
 <!-- Adding Social Buttons -->
