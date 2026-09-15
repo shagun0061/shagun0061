@@ -31,7 +31,7 @@
 </a>
 
 <!-- Portfolio -->
-<a href="https://shagun0061.github.io/" target="_blank">
+<a href="https://shagundev.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
